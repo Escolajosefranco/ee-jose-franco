@@ -5,27 +5,27 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 // Usando as imagens reais da escola
 const SCHOOL_IMAGES = [
   {
-    url: "/lovable-uploads/quadra.png",
+    url: "/carrosseluploads/quadra.png",
     caption: "Evento esportivo na quadra coberta"
   },
   {
-    url: "/lovable-uploads/podcast.png",
+    url: "/carrosseluploads/podcast.png",
     caption: "Produção do podcast da escola"
   },
   {
-    url: "/lovable-uploads/sustentavel.png",
+    url: "/carrosseluploads/sustentavel.png",
     caption: "Alunos em atividade de projeto sustentável"
   },
   {
-    url: "/lovable-uploads/cartas.png",
+    url: "/carrosseluploads/cartas.png",
     caption: "Estudantes jogando cartas na sala de aula"
   },
   {
-    url: "/lovable-uploads/brincar.png",
+    url: "/carrosseluploads/brincar.png",
     caption: "Alunos participando de projeto de economia"
   },
   {
-    url: "/lovable-uploads/atividade.png",
+    url: "/carrosseluploads/atividade.png",
     caption: "Atividade cultural na quadra poliesportiva"
   }
 ];
