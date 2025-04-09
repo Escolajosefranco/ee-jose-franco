@@ -12,9 +12,7 @@ const Footer: React.FC = () => {
             <p className="text-gray-700">
               Educação com qualidade, respeito e alegria!
             </p>
-            <p className="text-gray-700 mt-2">
-              Escola campeã no IDEP 2023
-            </p>
+        
           </div>
           
           <div>
